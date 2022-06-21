@@ -1,0 +1,30 @@
+[
+    {
+        "sheetName": "Лист 1",
+        "sheetCells": [
+            {
+                "rowIndex": 0,
+                "colIndex": 0,
+                "value": "string value"
+            },
+            {
+                "rowIndex": 0,
+                "colIndex": 1,
+                "value": 534
+            },
+            {
+                "rowIndex": 1,
+                "colIndex": 1,
+                "value": true
+            },
+            {
+                "rowIndex": 0,
+                "colIndex": 0,
+                "value": {
+                    "valueType": "dateTime",
+                    "value": "2014-02-01T09:28:56.321-10:00"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {        
+        "parameterName": "a1",
+        "parameterValue": "Москва"
+    },
+    {
+        "parameterName": "a10",
+        "parameterValue": -90.0000003
+    },
+    {
+        "parameterName": "a7",
+        "parameterValue": true
+    }
+]
